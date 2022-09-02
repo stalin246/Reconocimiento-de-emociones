@@ -1,3 +1,0 @@
-# Reconocimiento de emociones
-
-### Hola
